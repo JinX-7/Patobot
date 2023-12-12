@@ -7,9 +7,9 @@ sudo dnf clean all -y
 
 RUN git clone https://github.com/Axel-bytu/Patobot
 
-WORKDIR /root/Patobot-BT
+WORKDIR /root/Patobot
 
-COPY ./root/Patobot-BT
+COPY ./root/Patobot
 
 RUN yarn install
 
