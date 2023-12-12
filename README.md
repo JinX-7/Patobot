@@ -58,7 +58,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Axrl-bytu/Patobot && cd Patobot && yarn install && npm install
+git clone https://github.com/Axel-bytu/Patobot && cd Patobot && yarn install && npm install
 ```
 
 ```bash
