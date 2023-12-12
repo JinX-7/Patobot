@@ -1,4 +1,4 @@
-## CuriosityBot-MD ✨
+## Patobot🦆 ✨
 
 <p align="center">
 <img src="https://telegra.ph/file/1de45831f62519a4dac60.jpg" alt="CuriosityBot-MD" width="900"/>
@@ -17,7 +17,7 @@
 </a>
 
 ### Ejemplo 
-En caso de duda, antes de instalar CuriosityBot-MD, pruebe el bot aquí
+En caso de duda, antes de instalar Patobot🦆, pruebe el bot aquí
 
 <a href="https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU">
   <img src="https://img.shields.io/badge/CuriosityBot-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
@@ -26,8 +26,8 @@ En caso de duda, antes de instalar CuriosityBot-MD, pruebe el bot aquí
 ***
 
 ### `⚙️ AJUSTES ⚙️`
-- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/AzamiJs/CuriosityBot-MD/blob/main/config.js#L6)
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/AzamiJs/CuriosityBot-MD/fork)
+- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/Axel-bytu/Patobot/blob/main/config.js#L6)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Axel-bytu/Patobot/fork)
 - Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/AzamiJs/CuriosityBot-MD/blob/main/package.json#L42)
 ***
 
@@ -39,7 +39,7 @@ En caso de duda, antes de instalar CuriosityBot-MD, pruebe el bot aquí
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/AzamiJs/CuriosityBot-MD/master/curiosity.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Axel-bytu/Patobot/master/curiosity.sh | bash
 ```
 
 #### ACTIVAR EN TERMUX
@@ -58,7 +58,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/AzamiJs/CuriosityBot-MD && cd CuriosityBot-MD && yarn install && npm install
+git clone https://github.com/Axrl-bytu/Patobot && cd Patobot && yarn install && npm install
 ```
 
 ```bash
@@ -89,7 +89,7 @@ para usuarios del heroku
 ### `OBTENER OTRO CODIGO QR`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd CuriosityBot-MD
+> cd Patobot
 > rm -rf sessions
 > npm start
 ```
