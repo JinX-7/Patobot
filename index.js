@@ -15,20 +15,20 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('Curiosity\nBot\nMD', {
+say('Pato\nBot\nTB', {
 font: 'block',
 align: 'center',
 colors: ['magenta', 'cyan']
 })
-say(`${name} By @Azami`, {
+say(`${name} By @Axel`, {
 font: 'console',
 align: 'center',
 colors: ['blueBright']
 })
 console.log(` 
- Curiosity Bot V2
- Author: Azami
- WA    : +994 
+ Patobot V1
+ Author: Axel
+ WA    : +593
  Base  : BochilTeam
  `)
 
